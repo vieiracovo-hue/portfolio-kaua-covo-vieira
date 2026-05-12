@@ -1,21 +1,23 @@
 # 🚀 Kauã Covo Vieira
-> Estudante de **Engenharia de Software / Ciência da Computação** 
+> Acadêmico de **Ciência da Computação** | UNICID - São Paulo
 
 ---
 
 ### 📫 Contato & Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:covokaua@gmail.com)
-[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://seu-portfolio-ou-pdf.com)
+[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](LINK_DO_SEU_PDF)
 
 ---
 
 ### 👨‍💻 Sobre
-Atualmente cursando o **4º período** de **Ciência da Computação** na **[Nome da sua Instituição]**. Sou um entusiasta da automação e apaixonado por decifrar como grandes sistemas funcionam "por baixo do capô". Meu foco atual é a intersecção entre **Inteligência Artificial Aplicada** e **Desenvolvimento Full-Stack**.
+Atualmente cursando o **4º período** de **Ciência da Computação** na **UNICID (Universidade Cidade de São Paulo)**. Sou um entusiasta da tecnologia baseado em São Paulo, focado em criar soluções inteligentes que unem a robustez do Backend com o potencial da Inteligência Artificial.
 
-* **Habilidades Técnicas:** Python (Scikit-learn, Pandas), Java (Spring Boot), SQL (PostgreSQL), Firebase e Integração de LLMs.
-* **Habilidades Socioemocionais:** Pensamento analítico, adaptabilidade tecnológica e comunicação técnica clara.
-* **Foco de Estudo:** Engenharia reversa assistida por IA e arquiteturas de produtos mínimos viáveis (MVP).
+Minha jornada acadêmica é pautada pela curiosidade técnica: gosto de entender a arquitetura dos sistemas e como a IA pode ser usada para automatizar processos complexos.
+
+* **Habilidades Técnicas:** Python, Java, SQL (PostgreSQL), Firebase e Integração de LLMs.
+* **Habilidades Socioemocionais:** Resolução de problemas sob pressão, pensamento crítico e colaboração em times ágeis.
+* **Projetos de Destaque:** Especialista em prototipagem de MVPs e análise de modelos de Machine Learning.
 
 ---
 
@@ -25,33 +27,31 @@ Atualmente cursando o **4º período** de **Ciência da Computação** na **[Nom
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
-#### 🗄️ Banco de Dados
+#### 🗄️ Banco de Dados & Infra
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-### 📂 Portfólio de Projetos em Destaque
+### 📂 Portfólio de Projetos
 
-#### 🤖 Inteligência Artificial & Inovação
+#### 🤖 Inteligência Artificial & Engenharia
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Laboratório de Visão** | Treinamento de modelos focados na identificação de vieses algorítmicos. | [Ver Projeto 🔗](./projeto-laboratorio-de-classificacao-visual/) |
-| **Engenharia Reversa IA** | Reconstrução de apps via lógica funcional assistida por IA generativa. | [Ver Projeto 🔗](./projeto-laboratorio-de-engenharia-reversa/) |
-| **Predição de Churn** | Modelo preditivo para análise de retenção e comportamento de usuários. | [Ver Projeto 🔗](./projeto-ia-churn/) |
-| **Evolução MVP+** | Do protótipo ao produto real com Firebase e UX personalizada. | [Ver Projeto 🔗](./projeto-do-clone-ao-produto-minimo-viavel-mvp/) |
+| **Laboratório de Visão** | Identificação de vieses algorítmicos em modelos de visão computacional. | [Ver Projeto 🔗](./projeto-laboratorio-de-classificacao-visual/) |
+| **Engenharia Reversa c/ IA** | Reconstrução Full-Stack assistida por modelos de linguagem generativa. | [Ver Projeto 🔗](./projeto-laboratorio-de-engenharia-reversa/) |
+| **Predição de Churn** | Algoritmo de classificação para análise de retenção de clientes. | [Ver Projeto 🔗](./projeto-ia-churn/) |
+| **Desenvolvimento MVP+** | Evolução de protótipo funcional com integração Firebase e UX autoral. | [Ver Projeto 🔗](./projeto-do-clone-ao-produto-minimo-viavel-mvp/) |
 
 ---
 
 ### 🏗 Estrutura do Repositório
-Abaixo, a organização deste repositório para facilitar a navegação:
-
-- `root/`: Arquivo de apresentação principal.
-- `/projeto-nome/`: Código-fonte, documentação e especificações de cada laboratório/projeto acadêmico.
+- `root/`: Home de apresentação.
+- `/projeto-nome/`: Diretórios contendo documentação técnica, códigos e testes de cada projeto.
 
 ---
 
-### 📊 GitHub Stats
-![Estatísticas de Kauã](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=radical)
+### 📈 GitHub Stats
+![Estatísticas de Kauã](https://github-readme-stats.vercel.app/api?username=SEU_USER_AQUI&show_icons=true&theme=dark)
