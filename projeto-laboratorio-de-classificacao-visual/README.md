@@ -16,11 +16,13 @@ O experimento demonstra como a Inteligência Artificial pode reproduzir estereó
 
 ### 🔹 Interface de Treinamento
 
-![Treinamento do Modelo](./assets/treinamento-modelo.png)
+![Treinamento do Modelo](./treinamento-modelo.png)
+
+---
 
 ### 🔹 Análise Teórica do Viés Algorítmico
 
-![Análise do Viés](./assets/analise-vies.png)
+![Análise do Viés](./analise-vies.png)
 
 ---
 
