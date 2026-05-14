@@ -46,7 +46,6 @@ Minha jornada acadêmica é pautada pela curiosidade técnica: gosto de entender
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
----
 
 ## 📂 Portfólio de Projetos
 
@@ -59,8 +58,3 @@ Minha jornada acadêmica é pautada pela curiosidade técnica: gosto de entender
 | **Desenvolvimento de MVP+** | Evolução de protótipo para produto autoral com integração Firebase, design personalizado e implementação de novos recursos funcionais. | [Ver Projeto 🔗](./projeto-do-clone-ao-produto-minimo-viavel-mvp/) |
 
 ---
-├── README.md
-├── projeto-laboratorio-de-classificacao-visual/
-├── projeto-laboratorio-de-engenharia-reversa/
-├── projeto-ia-churn/
-└── projeto-do-clone-ao-produto-minimo-viavel-mvp/
