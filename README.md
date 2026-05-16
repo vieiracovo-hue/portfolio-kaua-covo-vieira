@@ -6,7 +6,7 @@
 ## 📫 Contato & Redes Sociais
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:covokaua@gmail.com)
+[![Gmail](https://img.shields.io/badge/covokaua%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:covokaua@gmail.com)
 [![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](./Curriculo_Kaua_Covo_Vieira%20(1).pdf)
 ---
 
