@@ -16,9 +16,9 @@ Atualmente cursando o **4º período** de **Ciência da Computação** na **UNIC
 
 Minha jornada acadêmica é guiada pela curiosidade técnica e pelo interesse em compreender como sistemas complexos funcionam internamente. Tenho grande interesse em engenharia de software, automação de processos, integração de APIs, desenvolvimento Full-Stack e utilização estratégica de modelos de linguagem generativa (LLMs).
 
-Além do desenvolvimento técnico, busco constantemente evoluir minhas capacidades analíticas e criativas através de projetos acadêmicos envolvendo visão computacional, engenharia reversa assistida por IA, prototipagem de MVPs e análise de vieses algorítmicos.
+Além do desenvolvimento técnico, busco constantemente evoluir minhas capacidades analíticas e criativas através de projetos acadêmicos envolvendo visão computacional, engenharia reversa assistida por IA, prototipagem de MVPs e análise de vieses algorítmicos. Tenho facilidade em aprender novas tecnologias, adaptar-me rapidamente a diferentes contextos e transformar ideias em soluções funcionais voltadas à experiência do usuário e eficiência operacional.
 
-Acredito que a Inteligência Artificial não substitui o desenvolvedor, mas amplia sua capacidade de resolver problemas complexos, acelerar processos e criar experiências tecnológicas mais eficientes e acessíveis.
+Acredito que a Inteligência Artificial não substitui o desenvolvedor, mas amplia sua capacidade de resolver problemas complexos, acelerar processos e criar experiências tecnológicas mais eficientes e acessíveis. Meu objetivo é construir uma carreira sólida na área de tecnologia, contribuindo com inovação, pensamento estratégico e desenvolvimento contínuo tanto no âmbito técnico quanto profissional.
 
 ### 🔹 Habilidades Técnicas
 
@@ -40,11 +40,22 @@ Acredito que a Inteligência Artificial não substitui o desenvolvedor, mas ampl
 - Engenharia de Prompt
 - Prototipagem de MVPs
 - Arquitetura de Sistemas
+- Modelagem de Sistemas
+- Versionamento de Código
+- Integração de APIs
+- Desenvolvimento Responsivo
 
 ### 🔹 Habilidades Socioemocionais
+
 - Resolução de problemas sob pressão
-- Pensamento crítico
+- Pensamento crítico e analítico
 - Colaboração em times ágeis
+- Comunicação técnica e interpessoal
+- Organização e adaptabilidade
+- Aprendizado contínuo
+- Criatividade para resolução de desafios
+- Facilidade em trabalhar com novas tecnologias
+- Proatividade e comprometimento
 
 ---
 
